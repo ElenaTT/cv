@@ -1,4 +1,7 @@
 - interest:
+  item: Cancer
+  link:
+- interest:
   item: Gene Regulation
   link:
 - interest:
@@ -12,7 +15,4 @@
   link:
 - interest:
   item: Neurons
-  link:
-- interest:
-  item: Cancer
   link:
