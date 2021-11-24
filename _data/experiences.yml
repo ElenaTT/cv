@@ -14,15 +14,15 @@
   company: Berlin Institute for Medical Systems Biology - MDC (Berlin, DE)
   details: "<i>Advisor</i>: Prof. Ana Pombo <br> <i>Project</i>: Regulation of transcribed genes through Polycomb Repressive Complexes"
 - experience:
-  role: PhD student
-  time: Nov 2012 - Dec 2017
-  company: Berlin Institute for Medical Systems Biology - MDC (Berlin, DE)
-  details: "<i>Advisor</i>: Prof. Ana Pombo <br> <i>Project</i>: Interplay between RNAPII and Polycomb during neuronal differentiation"
-- experience:
   role: EMBO Short-Term Fellow
   time: Jul - Aug 2013, May & Sep 2016
   company: EMBL-EBI / Sanger Institute (Cambridge, UK)
   details: "<i>Advisor</i>: Prof. Sarah Teichmann <br> <i>Project</i>: Regulation of single-cell expression via Polycomb during neuronal differentiation"
+- experience:
+  role: PhD student
+  time: Nov 2012 - Dec 2017
+  company: Berlin Institute for Medical Systems Biology - MDC (Berlin, DE)
+  details: "<i>Advisor</i>: Prof. Ana Pombo <br> <i>Project</i>: Interplay between RNAPII and Polycomb during neuronal differentiation"
 - experience:
   role: Master Student
   time: Sep 2011 - Sep 2012
