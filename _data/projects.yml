@@ -1,6 +1,12 @@
 - intro:
   description: " "
 - project:
+  title: Stepwise-edited, human melanoma models reveal mutations’ effect on tumor and microenvironment
+  link: "https://doi.org/10.1126/science.abi8175"
+  authors: "Hodis E*, <ins>TORLAI TRIGLIA E*</ins>, Kwon JYH, Biancalani T, Zakka LR, Parkar S, Hütter JC, Buffoni L, Delorey TM, Phillips D, Dionne D, Nguyen LT, Schapiro D, Maliga Z, Jacobson CA, Hendel A, Rozenblatt-Rosen O, Mihm MC, Garraway LA, Regev A"
+  journal: "Science 376, 474 (2022) https://doi.org/10.1126/science.abi8175"
+  details: "*Shared first authorship."
+- project:
   title: Cell-type specialization is encoded by specific chromatin topologies
   link: "https://www.nature.com/articles/s41586-021-04081-2"
   authors: "Winick-Ng W, Kukalev A, Harabulā I, Redondo LZ, Szabo D, Meijer M, Serebreni L, Zhang Y, Bianco S, Chiariello AM, Irastorza-Azcarate I, Thieme C, Sparks T, Carvalho S, Fiorillo L, Musella F, Irani E, <ins>TORLAI TRIGLIA E</ins>, Kolodziejczyk AA, Abentung A, Apostolova G, Paul EJ, Franke V, Kempfer R, Akalin A, Teichmann SA, Dechant G, Ungless MA, Nicodemi M, Castelo-Branco G, Pombo A"
