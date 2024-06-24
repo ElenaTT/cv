@@ -1,6 +1,12 @@
 - intro:
   description: " "
 - project:
+  title: B-cell-specific checkpoint molecules that regulate anti-tumour immunity
+  link: "https://www.nature.com/articles/s41586-023-06231-0"
+  authors: "Bod L, Kye YC, Shi J, <ins>TORLAI TRIGLIA E*</ins>, Schnell A, Fessler J, Ostrowski SM, Von-Franque MY, Kuchroo JR, Barilla RM, Zaghouani S, Christian E, Delorey TM, Mohib K, Xiao S, Slingerland N, Giuliano CJ, Ashenberg O, Li Z, Rothstein DM, Fisher DE, Rozenblatt-Rosen O, Sharpe AH, Quintana FJ, Apetoh L, Regev A, Kuchroo VK"
+  journal: "Nature 619, 348–356 (2023). https://doi.org/10.1038/s41586-023-06231-0"
+  details: 
+- project:
   title: Stepwise-edited, human melanoma models reveal mutations’ effect on tumor and microenvironment
   link: "https://doi.org/10.1126/science.abi8175"
   authors: "Hodis E*, <ins>TORLAI TRIGLIA E*</ins>, Kwon JYH, Biancalani T, Zakka LR, Parkar S, Hütter JC, Buffoni L, Delorey TM, Phillips D, Dionne D, Nguyen LT, Schapiro D, Maliga Z, Jacobson CA, Hendel A, Rozenblatt-Rosen O, Mihm MC, Garraway LA, Regev A"
