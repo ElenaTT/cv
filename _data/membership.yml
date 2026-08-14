@@ -1,16 +1,9 @@
 - member:
-  item: Federation of European Biochemical Societies (FEBS)
-  link: "https://www.febs.org/"
+  item: British Association for Cancer Research
+  link: "https://www.bacr.org.uk/"
 - member:
-  item: German Society for Biochemistry and Molecular Biology (GBM)
-  link: "https://www.gbm-online.de/the-gbm.html"
+  item: European Association for Cancer Research
+  link: "https://www.eacr.org/"
 - member:
-  item: German Bioinformatics Group (FaBi), affiliated to ISCB
-  link: "https://www.bioinformatik.de/en/"
-- member:
-  item: Americal Society of Cell Biology (ASCB)
-  link: "http://www.ascb.org/"
-- member:
-  item: Italian Association of Cell Biology and Differentiation (ABCD)
-  link: "http://abcd-it.org/"
-
+  item: The Genetics Society
+  link: "https://genetics.org.uk/"
